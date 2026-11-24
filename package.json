@@ -1,0 +1,1 @@
+{"description":"mend: one patch tool for every AI edit format","license":"MIT","main":"main.ts","name":"hidden-spec-cli-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
